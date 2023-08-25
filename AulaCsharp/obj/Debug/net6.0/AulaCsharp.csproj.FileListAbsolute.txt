@@ -1,0 +1,15 @@
+C:\Users\Mariana\source\repos\AulaCsharp\bin\Debug\net6.0\AulaCsharp.exe
+C:\Users\Mariana\source\repos\AulaCsharp\bin\Debug\net6.0\AulaCsharp.deps.json
+C:\Users\Mariana\source\repos\AulaCsharp\bin\Debug\net6.0\AulaCsharp.runtimeconfig.json
+C:\Users\Mariana\source\repos\AulaCsharp\bin\Debug\net6.0\AulaCsharp.dll
+C:\Users\Mariana\source\repos\AulaCsharp\bin\Debug\net6.0\AulaCsharp.pdb
+C:\Users\Mariana\source\repos\AulaCsharp\obj\Debug\net6.0\AulaCsharp.csproj.AssemblyReference.cache
+C:\Users\Mariana\source\repos\AulaCsharp\obj\Debug\net6.0\AulaCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\source\repos\AulaCsharp\obj\Debug\net6.0\AulaCsharp.AssemblyInfoInputs.cache
+C:\Users\Mariana\source\repos\AulaCsharp\obj\Debug\net6.0\AulaCsharp.AssemblyInfo.cs
+C:\Users\Mariana\source\repos\AulaCsharp\obj\Debug\net6.0\AulaCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\source\repos\AulaCsharp\obj\Debug\net6.0\AulaCsharp.dll
+C:\Users\Mariana\source\repos\AulaCsharp\obj\Debug\net6.0\refint\AulaCsharp.dll
+C:\Users\Mariana\source\repos\AulaCsharp\obj\Debug\net6.0\AulaCsharp.pdb
+C:\Users\Mariana\source\repos\AulaCsharp\obj\Debug\net6.0\AulaCsharp.genruntimeconfig.cache
+C:\Users\Mariana\source\repos\AulaCsharp\obj\Debug\net6.0\ref\AulaCsharp.dll
